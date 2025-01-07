@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\t\t\t\t\t\tHello World");
+            Console.WriteLine("Hello Hello World");
             Console.ReadLine(); 
         }
     }
